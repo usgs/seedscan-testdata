@@ -1,2 +1,0 @@
-This test compares ANMO BHZ data between 00 and 10, where the 00 trace has had a 1s delay
-applied to it, for use with sensor test suite sensorloc lag time computations.

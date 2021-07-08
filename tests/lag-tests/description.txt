@@ -1,0 +1,5 @@
+This test compares ANMO BHZ data between 00 and 10, where the 00 trace has had a delay
+applied to it, for use with sensor test suite sensorloc lag time computations.
+
+For the data named 1s and 5s, the delays are (unsurprisingly) 1 and 5 seconds respectively.
+For the file named XXs, the delay is less than a second, specifically 75 ms.
